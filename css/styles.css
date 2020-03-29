@@ -1,0 +1,19 @@
+
+  body {
+    background-color: lightgrey;
+
+  }
+
+    hr {
+      border-style: dotted none none;
+      height: 0px;
+      border-width: 5px;
+      border-color: grey;
+      width:5%;
+    }
+
+    h1 {
+      color: black;
+    font-family:Georgia
+}
+    h3 { color: #66BFBF; }
